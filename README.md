@@ -9,4 +9,4 @@ Harmonik Ortalama formülü : n (eleman sayısı) / elemanların harmonik serisi
 
 Harmonik Seri Formülü :
 
-![image](https://user-images.githubusercontent.com/123991935/224506668-663ae21e-d97d-416d-a131-91ee191923e9.png)
+![image](https://user-images.githubusercontent.com/123991935/224506683-46dbb0a5-02dc-42b0-a68c-5fd7da086450.png)
